@@ -1,1 +1,1 @@
-module github.com/padraicbc/converter
+module github.com/padraicbc/goitm
